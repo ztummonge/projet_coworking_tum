@@ -1,8 +1,0 @@
-requests
-pandas
-pyquery
-openpyxl
-folium
-streamlit
-streamlit_folium
-opencage
